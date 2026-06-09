@@ -20,6 +20,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1a1e11fa-9475-4c75-bdab-670e0b2491db"
+      }
+    },
+    "owner": "phiwakonke"
   }
 }
